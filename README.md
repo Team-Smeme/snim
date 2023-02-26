@@ -12,6 +12,7 @@ android with kotlin
 
 spring with kotlin
 - multi language (java, kotlin)
+- platform based server
 - spring 5.0, boot 2
   - webflux
 - mysql, cassandra
