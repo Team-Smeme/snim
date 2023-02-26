@@ -1,2 +1,17 @@
-# daehwan-playground
-for study
+# playground
+
+
+common
+- kotlin 1.8
+- coroutine 1.3.9
+- jdk 11
+- gradle 7
+
+android with kotlin
+- android 7.2
+
+spring with kotlin
+- multi language (java, kotlin)
+- spring 5.0, boot 2
+  - webflux
+- mysql, cassandra
