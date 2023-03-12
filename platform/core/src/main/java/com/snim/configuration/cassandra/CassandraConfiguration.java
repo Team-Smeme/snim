@@ -1,4 +1,4 @@
-package com.snim.core.infra;
+package com.snim.configuration.cassandra;
 
 import org.springframework.context.annotation.Configuration;
 
