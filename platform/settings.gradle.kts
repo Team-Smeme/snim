@@ -9,10 +9,10 @@ pluginManagement {
     val kotlinJpaVersion: String by settings
 
     plugins {
-        id("org.springframework.boot") version "${springBootVersion}"
-        id("io.spring.dependency-management") version "${springDependencyManagementVersion}"
-        kotlin("jvm") version "${kotlinVersion}"
-        kotlin("plugin.spring") version "${kotlinSpringVersion}"
-        kotlin("plugin.jpa") version "${kotlinJpaVersion}"
+        id("org.springframework.boot") version springBootVersion
+        id("io.spring.dependency-management") version springDependencyManagementVersion
+        kotlin("jvm") version kotlinVersion
+        kotlin("plugin.spring") version kotlinSpringVersion
+        kotlin("plugin.jpa") version kotlinJpaVersion
     }
 }
