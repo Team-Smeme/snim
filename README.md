@@ -1,4 +1,9 @@
 # 짭스밈
+aka. snim
+
+<img width="960" alt="스크린샷 2023-03-19 오후 3 05 33" src="https://user-images.githubusercontent.com/88091704/226156790-eebb06a7-c304-4397-983b-997fc925873d.png">
+
+
 # playground
 #### project Snim
 
