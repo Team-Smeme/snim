@@ -1,4 +1,4 @@
-# 짭스
+# 짭스밈
 # playground
 #### project Snim
 
