@@ -1,7 +1,7 @@
 # 짭스밈
 aka. snim
 
-<img width="1239" alt="스크린샷 2023-03-19 오후 5 08 54" src="https://user-images.githubusercontent.com/88091704/226162156-2b771589-a0fc-493e-956e-77e0e64ed5fb.png">
+<img width="1254" alt="스크린샷 2023-03-19 오후 5 10 53" src="https://user-images.githubusercontent.com/88091704/226162221-bf35451a-2640-4da6-8063-ff45ca5788d2.png">
 
 
 # playground
